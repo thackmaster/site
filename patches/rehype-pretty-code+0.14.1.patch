@@ -11,3 +11,4 @@ index 9142858..9f59dc9 100644
  }
  function getInlineCodeLang(meta, defaultFallbackLang) {
    const placeholder = "\0";
+ }
